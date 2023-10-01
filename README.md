@@ -1,4 +1,4 @@
-# news_app
+# Flutter News Reader
 
 Welcome to "Flutter News Reader".
 
