@@ -1,4 +1,4 @@
-# Flutter News Reader
+# News Reader
 
 - Showing users the latest news related to technology and, in particular, the Tesla company.
 - Providing the user with offline access to previously viewed news.
