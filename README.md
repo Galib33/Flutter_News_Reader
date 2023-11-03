@@ -1,10 +1,7 @@
 # Flutter News Reader
 
-Welcome to "Flutter News Reader".
-
-This project is basically to follow news related to technology.
-
-First of all,thank you for giving me this opportunity. 
+- Showing users the latest news related to technology and, in particular, the Tesla company.
+- Providing the user with offline access to previously viewed news.
 
 I made the design part of the project inspired by the designs in the links below:
 
@@ -17,4 +14,3 @@ The part that I had difficulty in designing was coding the part where the pictur
 
 I chose to use Hive from local databases for discovery. I pulled the data from the APIs with Dio. I could have used the http package as an alternative. As State Management, I used the BLoC library. As in my other projects, I tried to write as clean code as possible while working on this project.
 
-I hope you will like it. Thank you.
